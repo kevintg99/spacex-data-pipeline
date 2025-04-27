@@ -1,0 +1,5 @@
+name,company,first_flight,active,mass.kg,height.meters,cost_per_launch,boosters,engines.number,engines.type,country,rocket_age,cost_per_kg
+Falcon 1,SpaceX,2006-03-24,False,30146,22.25,6700000,0,1,merlin,Republic of the Marshall Islands,19,222.2517083526836
+Falcon 9,SpaceX,2010-06-04,True,549054,70.0,50000000,0,9,merlin,United States,15,91.0657239542923
+Falcon Heavy,SpaceX,2018-02-06,True,1420788,70.0,90000000,2,27,merlin,United States,7,63.34512960413517
+Starship,SpaceX,2021-12-01,False,1335000,118.0,7000000,0,37,raptor,United States,4,5.2434456928838955
